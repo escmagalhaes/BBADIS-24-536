@@ -16,4 +16,4 @@ ABSTRACT
 
 Recent studies in Diffuse Midline Gliomas (DMG) demonstrated a strong connection between epigenome dysregulation and metabolic rewiring. Here, we evaluated the value of targeting a glycolytic protein named Phosphofructo-2-kinase/Fructose-2,6-bisphosphatase 3 (PFKFB3) in H3.3K27M DMG. We observed that the viability of H3.3K27M cells is dramatically reduced by PFK15, a potent inhibitor of PFKFB3. Furthermore, PFKFB3 inhibition induced apoptosis and G2/M arrest. Interestingly, CRISPR-Knockout of the K27M mutant allele has a synergistic effect on the observed phenotype. Altogether, we identified PFKFB3 as a new target for H3.3K27M DMG, making PFK15 a potential candidate for future animal studies and clinical trials.
 
-Keywords: glioma, metabolism, PFKFB3, PFK15, H3.3K27M
+Keywords: glioma, metabolism, PFKFB3, PFK15, H3.3K27M 
